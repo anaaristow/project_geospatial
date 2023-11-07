@@ -1,0 +1,818 @@
+name,city,category_code,number_of_employees,total_money_raised,latitude,longitude
+Redfin,Seattle,real_estate,100,$96.8M,47.603122,-122.333253
+Simply Hired,Sunnyvale,search,100,$22.3M,37.4219165,-122.0780632
+mig33,Singapore,games_video,100,$32.4M,37.580304,-122.343679
+EchoSign,Palo Alto,web,100,$8.5M,37.445326,-122.160671
+TrialPay,Mountain View,advertising,100,$55.8M,37.388095,-122.08276
+Firetide,Campbell,mobile,100,$39.8M,37.285133,-121.932962
+Verimatrix,San Diego,software,100,$46.8M,32.903248,-117.175733
+Social Gaming Network,Los Angeles,games_video,100,$17.1M,37.446823,-122.161523
+Social Gaming Network,Beverly Hills,games_video,100,$17.1M,34.0698494,-118.4054182
+Elance,Mountain View,web,100,$94.8M,37.398022,-122.049143
+Vovici,Dulles,enterprise,100,$16.3M,38.983393,-77.434128
+Vovici,Kingston Upon Thames,enterprise,100,$16.3M,51.4140631,-0.3016459
+Parature,Herndon,software,100,$30.2M,38.912791,-77.220048
+Cloudmark,San Francisco,security,100,$38.5M,37.779507,-122.39071
+Vindicia,Belmont,analytics,100,$37.6M,37.538418,-122.252115
+Blueprint Software Systems,Toronto,enterprise,100,$30.2M,43.65101,-79.381254
+Photobucket,Denver,web,100,$33.7M,47.601803,-122.332085
+Troux Technologies,Austin,enterprise,100,$33.9M,30.381525,-97.810484
+Troux Technologies,Slough,enterprise,100,$33.9M,51.519369,-0.631817
+Troux Technologies,MÃ¼nchen,enterprise,100,$33.9M,48.142778,11.505366
+plista,Berlin,advertising,100,$3.8M,52.5283614,13.4124563
+Black Duck Software,Waltham,software,100,$50.5M,42.398916,-71.253998
+Black Duck Software,San Mateo,software,100,$50.5M,37.556152,-122.281484
+Black Duck Software,Manchester,software,100,$50.5M,53.524419,-2.258714
+Black Duck Software,Amsterdam,software,100,$50.5M,52.340609,4.870312
+RiseSmart,San Jose,enterprise,100,$12.6M,37.383526,-122.012808
+SOASTA,Mountain View,enterprise,100,$63.6M,37.418616,-122.087417
+Open-Xchange,Tarrytown,software,100,$37.8M,41.0662835,-73.8625452
+Open-Xchange,Olpe,software,100,$37.8M,51.029415,7.850863
+Open-Xchange,Nuremberg,software,100,$37.8M,49.4605351,11.0823953
+Trustpilot,Copenhagen V,web,100,$18.4M,55.6739617,12.5605372
+ShipServ,London,ecommerce,100,$3.25M,51.4629038,-0.263377
+ShipServ,Copenhagen,ecommerce,100,$3.25M,55.6829314,12.5753004
+Exit41,Andover,software,100,$24.2M,42.6555302,-71.1455618
+ZillionTV,Sunnyvale,games_video,100,$18.1M,37.3738725,-121.9973546
+ZillionTV,Santa Monica,games_video,100,$18.1M,34.016838,-118.500603
+NuView Systems,Andover,software,100,$7.1M,42.53182,-71.134358
+Bullhorn,Boston,enterprise,100,$27.5M,42.35198,-71.047739
+Corvil,New York,other,100,$31.5M,40.7547187,-73.9711073
+Corvil,London,other,100,$31.5M,51.5175331,-0.0828519
+Canopy Financial,San Francisco,finance,100,$89.5M,37.791388,-122.392148
+Autoquake,London,ecommerce,100,$39.9M,51.543337,-0.172364
+EdeniQ,Visalia,other,100,$83.7M,36.35198,-119.368461
+EdeniQ,Omaha,other,100,$83.7M,41.195017,-96.0942872
+Mashable,New York,news,100,$13.3M,40.7401544,-73.9867417
+Zmags,Copenhagen,software,95,$20.8M,55.6839208,12.571492
+Zmags,London,software,95,$20.8M,51.5111369,-0.1247662
+Kineto Wireless,Milpitas,mobile,95,$42.4M,37.405474,-121.918248
+picoChip,California,software,92,$96.5M,37.3709977,-121.9235529
+eBuddy,Amsterdam,messaging,90,€11.5M,52.3640933,4.8919457
+eBuddy,San Francisco,messaging,90,€11.5M,37.787683,-122.410943
+eBuddy,Singapore,messaging,90,€11.5M,51.500152,-0.126236
+NewsGator,Denver,enterprise,90,$39.3M,39.755092,-104.988123
+Greystripe,San Francisco,advertising,90,$17.6M,37.710677,-122.39323
+Ifbyphone,Chicago,software,90,$30.3M,42.040851,-87.750643
+Silver Tail Systems,Menlo Park,analytics,90,$22.1M,37.4280877,-122.143368
+WordStream,Boston,advertising,90,$16.3M,42.354257,-71.056605
+OLX,New York,web,85,$28.5M,40.8587524,-73.7258199
+BroadSoft,Gaithersburg,software,85,$42.5M,39.141511,-77.209394
+GuardianEdge Technologies,San Mateo,software,85,$19.5M,37.778613,-122.395289
+Mocana,San Francisco,security,85,$50.5M,37.793783,-122.401001
+BitTorrent,San Francisco,web,80,$40.8M,37.790998,-122.394668
+Baynote,San Jose,software,80,$27.8M,37.332271,-122.006539
+ShareThis,Palo Alto,social,80,$82.9M,37.4203945,-122.0872274
+SocialVibe,Los Angeles,advertising,80,$43.9M,34.0815238,-118.3826743
+Kontagent,San Francisco,analytics,80,$17.5M,37.7797255,-122.4020593
+Swype,Seattle,software,80,$13.9M,47.6495905,-122.3497956
+Swype,Seattle,software,80,$13.9M,47.6495905,-122.3497956
+Swype,Seattle,software,80,$13.9M,47.6495905,-122.3497956
+Swype,Seattle,software,80,$13.9M,47.6495905,-122.3497956
+ConSentry Networks,Milpitas,network_hosting,80,$46.4M,37.407311,-121.898605
+SmartEquip,Norwalk,manufacturing,80,$20.7M,41.143608,-73.427439
+SmartEquip,Agoura Hills,manufacturing,80,$20.7M,34.148198,-118.762487
+PrestaShop,Levallois-Perret,software,80,€3.9M,48.8687217,2.3593849
+Qualvu,Lakewood,photo_video,80,$2.6M,39.661171,-105.352174
+RadioScape,London,hardware,79,£15.6M,51.5249464,-0.1442311
+GET Holding NV,Zaandijk,enterprise,78,€4.25M,52.475393,4.812833
+Meetup,New York,web,75,$18.3M,40.72604,-73.995722
+GigaOM,San Francisco,news,75,$14.3M,37.775196,-122.419204
+GigaOM,New York,news,75,$14.3M,40.7143528,-74.0059731
+Flixster,San Francisco,web,75,$7.18M,37.766909,-122.406676
+NextBio,Santa Clara,enterprise,75,$16.1M,37.316653,-122.05074
+Funambol,Foster City,enterprise,75,$13.4M,37.49654,-122.225128
+Myrio,Bothell,software,75,$20.5M,47.765758,-122.184304
+Crescendo Networks,Sunnyvale,network_hosting,75,$24.5M,37.451702,-122.182253
+Clearleap,Duluth,software,75,$41.3M,34.070164,-84.058708
+Sojern,San Francisco,travel,75,$42.5M,41.238038,-96.183033
+RideCharge,Alexandria,mobile,75,$8.6M,38.814329,-77.038605
+Upland Software,Cambridge,software,75,$23.3M,42.3656123,-71.0922022
+Electric Cloud,Sunnyvale,software,75,$25.6M,37.3903639,-122.0325963
+Logicworks,New York,network_hosting,75,$7.6M,40.7254129,-74.0045549
+Polyvore,Mountain View,web,73,$22.1M,37.386175,-122.083487
+Zeugma Systems,"Richmond, BC",hardware,72,$31.5M,49.1739359,-123.071751
+Luca Technologies,Golden,biotech,72,$98.9M,39.720088,-105.192312
+Luca Technologies,Gillette,biotech,72,$98.9M,44.2264,-105.604
+Cloudant,Boston,enterprise,70,$18.3M,42.35892,-71.05781
+Friendster,Kuala Lumpur,web,70,$48.5M,3.139003,101.686855
+Thumbplay,New York,music,70,$41.5M,40.725435,-73.997395
+Goodreads,Santa Monica,web,70,$2.75M,34.01052,-118.495981
+Shoeboxed,Durham,web,70,$2.51M,35.996157,-78.902115
+Shoeboxed,Durham,web,70,$2.51M,35.9939,-78.8986
+Phreesia,New York,software,70,$42.7M,40.739794,-73.985878
+Bango,Cambridge,mobile,70,$10.2M,52.2155382,0.124024
+Bango,New York,mobile,70,$10.2M,40.7412488,-73.9912518
+NewsCred,New York,advertising,70,$21.8M,46.223157,6.124424
+NewsCred,Dhaka,advertising,70,$21.8M,23.709921,90.407143
+The Receivables Exchange,New York,ecommerce,70,$39.8M,40.757651,-73.9752768
+Videoplaza,London,advertising,70,€15.9M,51.5212481,-0.1020894
+Videoplaza,Stockholm,advertising,70,€15.9M,59.3351833,18.0333601
+Videoplaza,Berlin,advertising,70,€15.9M,52.5372765,13.3787413
+Videoplaza,Singapore,advertising,70,€15.9M,1.2821008,103.8508327
+Videoplaza,Madrid,advertising,70,€15.9M,40.4596242,-3.6923285
+Intela,Boulder,advertising,70,$13.3M,40.058448,-105.278785
+Intela,Boulder,advertising,70,$13.3M,40.058448,-105.278785
+Intela,London,advertising,70,$13.3M,51.5139758,-0.1230127
+Intela,London,advertising,70,$13.3M,51.5139758,-0.1230127
+Intela,Boulder,advertising,70,$13.3M,40.058448,-105.278785
+Intela,Boulder,advertising,70,$13.3M,40.058448,-105.278785
+Intela,London,advertising,70,$13.3M,51.5139758,-0.1230127
+Intela,London,advertising,70,$13.3M,51.5139758,-0.1230127
+BrightScope,San Diego,finance,70,$5.9M,32.873081,-117.2117395
+ZeroTurnaround,Tartu,software,70,$2.7M,58.3820542,26.731054
+Change Healthcare,Brentwood,health,70,$30.8M,36.158887,-86.782056
+House Party,Irvington,advertising,70,$9.95M,41.0409527,-73.8731834
+My-Hammer,Berlin,web,70,$3.2M,52.5092312,13.3883606
+Vinfolio,San Francisco,ecommerce,68,$10.6M,37.763293,-122.410752
+GreenVolts,Fremont,cleantech,68,$96.8M,37.790153,-122.398669
+Bizo,San Francisco,advertising,66,$28.5M,37.7911186,-122.4011706
+JackBe,Chevy Chase,software,65,$24.5M,38.963492,-77.091025
+Kewego,Paris,games_video,65,$19.4M,46.227638,2.213749
+The Echo Nest,Somerville,music,65,$25.6M,42.396495,-71.12045
+Andera,Providence,finance,65,$9.35M,41.8283364,-71.4133543
+GreenNote,Mather,web,65,$4.2M,37.492685,-122.227765
+Adaptive Planning,Mountain View,software,65,$84.5M,37.4192309,-122.0887097
+OfferWire,Vero Beach,ecommerce,65,$3.5M,27.6476577,-80.3821092
+OfferWire,Atlanta,ecommerce,65,$3.5M,34.046788,-84.300914
+Optimum Energy,Seattle,cleantech,65,$21.2M,47.598657,-122.334614
+Optimum Energy,San Diego,cleantech,65,$21.2M,32.8386414,-117.098216
+Optimum Energy,New York,cleantech,65,$21.2M,40.7518919,-73.9875922
+FireScope,Huntington Beach,software,65,$9.91M,33.664705,-118.012553
+FireScope,Carrollton,software,65,$9.91M,33.0353,-96.9274
+FireScope,Sydney,software,65,$9.91M,-33.867139,151.207114
+FireScope,London,software,65,$9.91M,51.5001524,-0.1262362
+TripIt,San Francisco,travel,63,$13.1M,37.764169,-122.402021
+Extend Media,Newton,software,62,$33.2M,42.295137,-71.200686
+Extend Media,"Toronto, Ontario",software,62,$33.2M,43.6373101,-79.4254603
+Extend Media,Vence,software,62,$33.2M,43.7129305,7.1346567
+NeoSystems,Vienna,consulting,62,$5.1M,38.9128266,-77.2200164
+Powerset,San Francisco,search,60,$22.5M,37.778613,-122.395289
+Eventful,San Diego,web,60,$19.6M,32.872081,-117.206292
+BlackArrow,San Jose,advertising,60,$59.8M,37.549475,-122.316982
+Qik,Redwood City,mobile,60,$14.8M,37.486368,-122.230116
+Bunchball,Redwood City,software,60,$12.5M,37.3208403,-121.9479223
+MOG,Berkeley,music,60,$24.9M,37.872222,-122.268403
+Jivox,Redwood City,advertising,60,$25.6M,37.555962,-122.288006
+SupplyFrame,Pasadena,advertising,60,$15.5M,34.143885,-118.151542
+Perfect Market,Pasadena,software,60,$30.6M,34.146436,-118.153136
+Ounce Labs,Waltham,software,60,$13.5M,42.393662,-71.255855
+Medialets,New York,advertising,60,$28.4M,40.756054,-73.986951
+Medialets,San Francisco,advertising,60,$28.4M,37.775196,-122.419204
+FamilyLink,Provo,web,60,$3.65M,40.250096,-111.643179
+Poptent,Conshohocken,photo_video,60,$8.5M,40.0018743,-75.2747196
+Packet Design,Santa Clara,software,60,$2.8M,37.3821368,-121.970505
+NEXAGE,Boston,mobile,60,$19.5M,37.4777028,-121.9250553
+Talari Networks,San Jose,enterprise,60,$45.1M,37.317735,-121.949417
+Talari Networks,Morrisville,enterprise,60,$45.1M,35.8535092,-78.8267112
+Avnera,Beaverton,semiconductor,60,$66.7M,45.528908,-122.846665
+TopCoder,Glastonbury,software,60,$11.3M,41.722414,-72.618958
+Above Security,Boisbriand,consulting,60,$2.5M,45.6099327,-73.8553
+Punch Entertainment,Palo Alto,software,60,$1.2M,37.4233698,-122.0986859
+Geewa,Prague 8,games_video,60,€1.5M,50.0938491,14.4505336
+SCVNGR,Boston,games_video,60,$40.8M,42.3406534,-71.0680027
+StoredIQ,Austin,enterprise,60,$44.5M,30.213531,-97.815012
+TVU Networks,Mountain View,ecommerce,60,$10.1M,37.416349,-122.085021
+Metallkraft AS,Kristiansand,cleantech,60,$32.5M,58.155769,7.9543206
+BzzAgent,Boston,advertising,60,$14.5M,42.341899,-71.065924
+Sierra Monolithics,Redondo Beach,public_relations,60,$25.2M,33.8391756,-118.3895144
+Sierra Monolithics,Sunnyvale,public_relations,60,$25.2M,37.384206,-121.992805
+Sierra Monolithics,Irvine,public_relations,60,$25.2M,33.649475,-117.849172
+FlightStats,Portland,travel,58,$1.5M,45.519154,-122.675428
+Zvents,San Mateo,web,55,$31.2M,37.553121,-122.301534
+SelectMinds,New York,network_hosting,55,$5.5M,40.740251,-73.990004
+Tutor,New York,web,55,$13.5M,40.707921,-74.004792
+imeem,San Francisco,music,55,$24.8M,37.779624,-122.391236
+Limeade,Bellevue,health,55,$8.99M,47.6097449,-122.196699
+GumGum,Santa Monica,advertising,55,$10.8M,34.052187,-118.243425
+Conductor,New York,search,55,$33.6M,40.746332,-73.982596
+Smule,San Francisco,music,55,$25.5M,37.779624,-122.391236
+InnoCentive,Waltham,enterprise,55,$30.3M,42.3988781,-71.2537056
+InnoCentive,London,enterprise,55,$30.3M,51.5183541,-0.1581968
+CyberArts,San Francisco,software,55,$16.3M,37.737609,-122.435399
+CyberArts,Berkeley,software,55,$16.3M,37.8983665,-122.2795667
+HyTrust,Mountain View,security,55,$34.5M,37.393836,-122.099454
+Mochila,New York,advertising,52,$9.01M,40.711982,-74.008622
+SearchMe,Mountain View,search,52,$43.6M,37.386665,-122.084171
+SearchMe,San Francisco,search,52,$43.6M,37.793473,-122.402667
+Huddler,San Francisco,web,52,$22.8M,37.7893215,-122.4013624
+SparkBase,Cleveland,software,51,$10.5M,41.513652,-81.666101
+Mobifusion,,mobile,51,$3.1M,37.552104,-121.9780378
+Scribd,San Francisco,news,50,$25.8M,37.789634,-122.404052
+Plaxo,Sunnyvale,web,50,$28.3M,37.387845,-122.055197
+adBrite,San Francisco,advertising,50,$40.4M,37.779026,-122.40184
+Socialtext,Palo Alto,enterprise,50,$46.8M,37.442949,-122.1615
+Echo,San francisco,enterprise,50,$4.8M,38.0729365,-122.1879633
+Six Apart,Tokyo,enterprise,50,$22.6M,35.6725213,139.7326754
+OMGPOP,New York,games_video,50,$16.6M,40.723384,-74.001704
+Crunchyroll,San Francisco,games_video,50,$4.8M,37.781265,-122.393229
+BitGravity,Burlingame,network_hosting,50,$2.5M,37.590056,-122.347654
+Peer39,New York,advertising,50,$29.9M,40.755446,-73.980246
+Lijit Networks,Boulder,advertising,50,$28.3M,40.01621,-105.28131
+ChoiceStream,Boston,advertising,50,$78.3M,42.36638,-71.093601
+Votigo,Boulder,software,50,$1.27M,37.8919079,-122.1192743
+MobileAware,Boston,mobile,50,$6.96M,53.342648,-6.280957
+MobileAware,Boston,mobile,50,$6.96M,53.342648,-6.280957
+MobileAware,Boston,mobile,50,$6.96M,53.342648,-6.280957
+MobileAware,Boston,mobile,50,$6.96M,53.342648,-6.280957
+Panjiva,NYC,enterprise,50,$5.6M,40.741276,-73.991561
+Panjiva,NYC,enterprise,50,$5.6M,40.741276,-73.991561
+Panjiva,NYC,enterprise,50,$5.6M,40.741276,-73.991561
+Panjiva,NYC,enterprise,50,$5.6M,40.741276,-73.991561
+Atigeo,Bellevue,software,50,$5.39M,47.6174533,-122.2016685
+Atigeo,Bellevue,software,50,$5.39M,47.6174533,-122.2016685
+Atigeo,Bellevue,software,50,$5.39M,47.6174533,-122.2016685
+Atigeo,Bellevue,software,50,$5.39M,47.6174533,-122.2016685
+UBmatrix,Redwood City,software,50,$9.3M,37.522281,-122.258139
+UBmatrix,Redwood City,software,50,$9.3M,37.522281,-122.258139
+UBmatrix,Redwood City,software,50,$9.3M,37.522281,-122.258139
+UBmatrix,Redwood City,software,50,$9.3M,37.522281,-122.258139
+Inuvo,Clearwater,advertising,50,$4.2M,27.913011,-82.702449
+Inuvo,Clearwater,advertising,50,$4.2M,27.913011,-82.702449
+Inuvo,Clearwater,advertising,50,$4.2M,27.913011,-82.702449
+Inuvo,Clearwater,advertising,50,$4.2M,27.913011,-82.702449
+Movidius,Dublin,semiconductor,50,$46.5M,53.3574412,-6.2567125
+Nexaweb Technologies,Burlington,software,50,$14.6M,42.483826,-71.194268
+Nexaweb Technologies,Amsterdam,software,50,$14.6M,52.390168,4.904251
+Zoopla,London,real_estate,50,$10.2M,51.5037471,-0.1010801
+Movirtu,London,mobile,50,$5.5M,51.5499708,-0.1815999
+Movirtu,Noida,mobile,50,$5.5M,28.5821195,77.3266991
+Nuxeo,Paris,software,50,$9.25M,48.8656319,2.392119
+Nuxeo,Cambridge,software,50,$9.25M,42.3904729,-71.1423056
+EcoVadis,PARIS,cleantech,50,$1.4M,48.8545738,2.3216223
+Mantara,New York,software,50,$50.6M,40.726517,-74.032177
+Ginger Software,Lexington,software,50,$11.7M,42.4352222,-71.2344601
+Superfish,Palo Alto,search,50,$19.3M,37.414271,-122.134666
+PaperG,San Francisco,advertising,50,$2.7M,37.7905948,-122.406111
+Enclarity,Aliso Viejo,consulting,50,$5.5M,33.5842816,-117.7306817
+AppZero,Andover,software,50,$15.1M,42.6751888,-71.1469003
+Surfkitchen,Reading,mobile,50,£9.6M,51.4245551,-0.9862367
+Chartbeat,New York,analytics,50,$14.5M,40.73343,-73.990967
+ExtraHop Networks,Seattle,enterprise,50,$19.1M,47.6209107,-122.361239
+drchrono,Mountain View,medical,50,$4.13M,37.4202074,-122.0933053
+Bigfoot Networks,Redwood City,hardware,50,$20.8M,37.536402,-122.325129
+Bigfoot Networks,Austin,hardware,50,$20.8M,30.42845,-97.748816
+Solix Biofuels,Fort Collins,cleantech,50,$68.8M,40.5932386,-105.0766501
+Catalyst Biosciences,South San Francisco,biotech,50,$95.9M,37.645401,-122.394464
+Struq,London,advertising,50,$8.5M,51.5152023,-0.1366861
+Struq,,advertising,50,$8.5M,40.7766412,-73.9521468
+Testplant,London,software,50,$2.56M,51.517356,-0.1037742
+Testplant,Boulder,software,50,$2.56M,40.0230047,-105.2532841
+Clavis Technology,Cambridge,software,50,€3.66M,42.3626626,-71.084153
+Arkeia Software,Carlsbad,software,50,$4.08M,33.132567,-117.292746
+CrowdFlower,San Francisco,enterprise,49,$13.2M,37.7652755,-122.4204782
+Solera Networks,South Jordan,analytics,48,$51.7M,40.3310529,-111.7276347
+Wetpaint,Seattle,web,47,$39.8M,47.603122,-122.333253
+Wetpaint,New York,web,47,$39.8M,40.7237306,-73.9964312
+ooma,Palo Alto,hardware,47,$81.3M,37.451958,-122.116026
+Adjug,London,advertising,47,$6.5M,51.5441671,-0.1506897
+Blip,Santa Monica,games_video,47,$27.3M,34.0272246,-118.4682333
+RatePoint,Needham,software,45,$24.5M,42.296111,-71.238524
+Etelos,San Mateo,enterprise,45,$4.09M,37.548415,-122.315636
+Memeo,Santa Clara,software,45,$11.1M,33.585767,-117.731283
+Inertia Beverage Group,Napa,software,45,$25.5M,38.223032,-122.261642
+Boxee,Tel Aviv,software,45,$26.5M,32.0554,34.7595
+Boxee,New York,software,45,$26.5M,40.745064,-73.992637
+BountyJobs,New York,web,45,$29.8M,40.754211,-73.97917
+Stratavia,Denver,software,45,$10.7M,39.7462728,-104.9911572
+Questra,Redwood City,software,45,$12.5M,37.5384185,-122.252115
+Optify,Seattle,software,45,$10.8M,47.603364,-122.333359
+Topsy Labs,San Francisco,analytics,45,$35.2M,37.775196,-122.419204
+LigoCyte Pharmaceuticals,Bozeman,biotech,45,$42.1M,45.6686485,-111.0662396
+Tiny Speck,Vancouver,games_video,45,$17.2M,49.2824551,-123.109217
+Apaja,Helsinki,games_video,44,€1.75M,60.171821,24.945167
+Jasper Design Automation,Mountain View,software,44,$9.13M,37.393536,-122.076747
+Disqus,San Francisco,web,43,$10.5M,37.786906,-122.397672
+Triggit,San Francisco,advertising,43,$18.5M,37.771208,-122.418129
+SpaBooker,New York,software,42,$14.7M,40.738567,-73.987199
+Brand Affinity Technologies,Irvine,advertising,42,$27.5M,33.671428,-117.791423
+Kyte,San Francisco,games_video,40,$23.4M,37.788482,-122.409173
+GoingOn,San Francisco,software,40,$8.5M,37.782263,-122.392142
+ScanScout,Boston,advertising,40,$17.5M,42.340889,-71.051931
+ScanScout,New York,advertising,40,$17.5M,40.739833,-73.993158
+ScanScout,Los Angeles,advertising,40,$17.5M,34.050887,-118.459995
+Flock,Menlo Park,web,40,$28.3M,37.491356,-122.228843
+LucidEra,San Mateo,enterprise,40,$15.6M,37.5583159,-122.2862187
+Innovid,New York,advertising,40,$27.6M,40.722655,-73.99873
+Skimlinks,London,advertising,40,$7.02M,51.522727,-0.084462
+AnchorFree,Mountain View,security,40,$62.8M,37.378884,-122.010692
+eYeka,Paris,software,40,$9.34M,48.856667,2.350987
+gate5,Berlin,mobile,40,€11.5M,52.52348,13.411494
+Pivot,Cambridge,software,40,$13.1M,42.364367,-71.078978
+Zenoss,Annapolis,software,40,$45.6M,38.97639,-76.503171
+Zenoss,Austin,software,40,$45.6M,30.379593,-97.765313
+CrestaTech,Santa Clara,software,40,$20.9M,37.383368,-121.980186
+AdScale,Munich,advertising,40,$6.15M,48.1654212,11.5893956
+SnagFilms,Washington,social,40,$29.5M,38.906867,-77.042322
+Purewire,Atlanta,enterprise,40,$4.75M,33.852384,-84.380568
+Purewire,Atlanta,enterprise,40,$4.75M,33.852384,-84.380568
+Purewire,Atlanta,enterprise,40,$4.75M,33.852384,-84.380568
+Purewire,Atlanta,enterprise,40,$4.75M,33.852384,-84.380568
+Sentrigo,Santa Clara,software,40,$9.5M,37.55911,-122.303493
+Sentrigo,Woburn,software,40,$9.5M,42.508719,-71.144313
+Xeround,Bellevue,analytics,40,$39.8M,47.5827406,-122.1353561
+AutoVirt,Nashua,software,40,$24.3M,42.7370219,-71.4872976
+Verix,Mountain View,software,40,$12.7M,37.4187022,-122.0874129
+ReachForce,Austin,enterprise,40,$14.5M,30.389042,-97.756264
+Bluelock,Indianapolis,network_hosting,40,$6.12M,39.8705647,-86.2374314
+burrp!,Mumbai,web,40,$2.15M,19.017656,72.856178
+Cognitive Match,London,advertising,40,$10.2M,51.5119418,-0.0936688
+Cognitive Match,New York,advertising,40,$10.2M,40.7454098,-73.9822211
+Cognitive Match,Palo Alto,advertising,40,$10.2M,37.380653,-122.1156934
+Cognitive Match,Omaha,advertising,40,$10.2M,41.2601663,-96.0791435
+tracx,New York,analytics,40,$7.9M,32.0554,34.7595
+FTRANS,"Atlanta,",software,40,$14.1M,33.7761977,-84.385257
+Servo Software,San Mateo,software,40,$3.01M,37.552262,-122.292146
+RainStor,San Francisco,analytics,40,$26.3M,51.865488,-2.235187
+The Resumator,Pittsburgh,software,40,$2.98M,40.438423,-80.001933
+InteliCloud,Newport Beach,network_hosting,40,$3.42M,33.658546,-117.86595
+UTOPY,San Francisco,software,40,$7.5M,37.767575,-122.411157
+RipCode,Richardson,software,39,$36.5M,32.959908,-96.70737
+RipCode,Austin,software,39,$36.5M,30.402252,-97.748795
+Bungee Labs,Orem,software,38,$23.5M,40.32462,-111.679755
+JibJab,Venice,web,37,$17.9M,34.011335,-118.468458
+Amadesa,Evanston,software,37,$12.8M,42.055849,-87.694664
+Kiala,,other,37,£32.8M,50.8256038,4.3652584
+4Home,Sunnyvale,software,36,$9.15M,37.385225,-121.991912
+rPath,Raleigh,enterprise,36,$32.5M,35.79181,-78.74123
+Technorati,San Francisco,advertising,35,$32.1M,37.779558,-122.393041
+Jingle Networks,New York,mobile,35,$88.7M,37.480999,-122.173887
+PixSense,Santa Clara,mobile,35,$7.4M,37.387114,-121.973228
+Boomi,Berwyn,enterprise,35,$4.9M,40.063476,-75.457492
+Livemocha,Seattle,education,35,$19.4M,47.6399006,-122.1914274
+Evri,Seattle,news,35,$11.8M,47.620716,-122.347533
+ModiFace,Toronto,analytics,35,$4.25M,43.666953,-79.388279
+Liftopia,San Francisco,ecommerce,35,$7.3M,37.796164,-122.420903
+Jinni,Tel Aviv,games_video,35,$8.1M,32.0554,34.7595
+Futurlink,Barcelona,mobile,35,$7.62M,41.396553,2.189241
+Sometrics,El Segundo,games_video,35,$5.55M,34.048857,-118.251343
+magnify360,Los Angeles,public_relations,35,$2.5M,33.946285,-118.38823
+magnify360,Los Angeles,public_relations,35,$2.5M,33.946285,-118.38823
+magnify360,Los Angeles,public_relations,35,$2.5M,33.946285,-118.38823
+magnify360,Los Angeles,public_relations,35,$2.5M,33.946285,-118.38823
+expressor software,Burlington,software,35,$29.1M,42.485102,-71.211568
+mydeco,London,web,35,£12.5M,51.518101,-0.468617
+Simulmedia,New York,advertising,35,$57.3M,40.727216,-73.994797
+Aria Networks,Chippenham,software,35,$9.05M,51.4515283,-2.1334555
+AlterPoint,Austin,software,35,$26.8M,30.354768,-97.798152
+Teambox,Barcelona,web,35,$6.75M,41.4063346,2.1920231
+Gnip,Boulder,enterprise,34,$6.64M,40.019299,-105.274628
+CorrectNet,Hauppauge,analytics,34,$3.37M,40.808322,-73.254767
+PhotoThera,Carlsbad,biotech,34,$80.5M,33.13324,-117.275027
+AdReady,Seattle,advertising,33,$17.8M,47.649027,-122.346299
+KnowledgeTree,Raleigh,software,33,$6.95M,35.786975,-78.647003
+OneRiot,Boulder,advertising,32,$27.3M,40.01621,-105.28131
+Spectrum Bridge,Lake Mary,network_hosting,32,$23.3M,28.757202,-81.334464
+Spectrum Bridge,Lake Mary,network_hosting,32,$23.3M,28.757202,-81.334464
+Spectrum Bridge,Lake Mary,network_hosting,32,$23.3M,28.757202,-81.334464
+Spectrum Bridge,Lake Mary,network_hosting,32,$23.3M,28.757202,-81.334464
+Course Hero,Redwood City,education,32,$2.38M,37.511228,-122.200622
+Layar,Amsterdam,mobile,32,$13.4M,52.3657578,4.8928722
+Mint.com,Mountain View,finance,31,$31.8M,37.392392,-122.078727
+Jaxtr,Menlo Park,mobile,30,$21.5M,37.451026,-122.18676
+Behance,New York,web,30,$6.5M,40.74406,-74.004592
+FlowPlay,Seattle,games_video,30,$3.97M,47.6015315,-122.335943
+Worklight,New York,mobile,30,$17.6M,40.756799,-73.976348
+blueKiwi,Paris,enterprise,30,$12.3M,48.8599791,2.3608064
+Uversity,San Francisco,social,30,$10.2M,37.7749295,-122.4194155
+Widgetbox,San Francisco,other,30,$14.5M,37.798853,-122.398599
+Collarity,Palo Alto,advertising,30,$12.2M,37.407752,-122.154565
+Replay Solutions,Redwood City,software,30,$15.2M,37.512318,-122.200914
+Zemanta,London,web,30,$7.35M,51.5141566,-0.0934254
+Zemanta,New York,web,30,$7.35M,40.7387945,-73.9939213
+Zemanta,Ljubljana,web,30,$7.35M,46.0607926,14.4972218
+Berkeley Design Automation,Santa Clara,software,30,$20.3M,37.374659,-121.970209
+Cellufun,New York,games_video,30,$5.23M,40.73993,-73.9930489
+eRepublik,Madrid,games_video,30,€2.75M,40.43094,-3.6952896
+Austhink Software,"Melbourne, Victoria",software,30,$3.77M,-37.813603,144.96616
+Limbo,Burlingame,mobile,30,$27.1M,37.580304,-122.343679
+MetaPack,London,software,30,$20.5M,51.52216,-0.111242
+MetaPack,London,software,30,$20.5M,51.52216,-0.111242
+MetaPack,London,software,30,$20.5M,51.52216,-0.111242
+MetaPack,London,software,30,$20.5M,51.52216,-0.111242
+Burt,Gothenburg,advertising,30,$3.5M,59.337864,18.036587
+Burt,Gothenburg,advertising,30,$3.5M,59.337864,18.036587
+Burt,Gothenburg,advertising,30,$3.5M,59.337864,18.036587
+Burt,Gothenburg,advertising,30,$3.5M,59.337864,18.036587
+Geodelic Systems,Los Angeles,mobile,30,$10.5M,34.005914,-118.488129
+Geodelic Systems,Los Angeles,mobile,30,$10.5M,34.005914,-118.488129
+Geodelic Systems,Los Angeles,mobile,30,$10.5M,34.005914,-118.488129
+Geodelic Systems,Los Angeles,mobile,30,$10.5M,34.005914,-118.488129
+LiveHive Systems,Waterloo,software,30,$1.8M,43.474686,-80.521246
+AdECN,Carpinteria,advertising,30,$3.1M,34.394343,-119.51231
+Viigo,Toronto,mobile,30,C$7.9M,43.6490004,-79.3723339
+Calient Technologies,Goleta,network_hosting,30,$51.4M,37.387642,-121.93006
+ividence,Paris,advertising,30,$9.7M,48.8682244,2.3347594
+Global Roaming,Miami,mobile,29,$30.5M,25.9690885,-80.1417742
+Mytopia,Palo Alto,games_video,29,$3.5M,34.007967,-118.489681
+iLike,Seattle,games_video,28,$16.5M,47.615313,-122.323408
+clipsync,San Francisco,web,28,$1.51M,37.2906027,-121.9317853
+Nomadesk,Austin,enterprise,28,$10.3M,51.001975,3.61682
+Nomadesk,Austin,enterprise,28,$10.3M,51.001975,3.61682
+Nomadesk,Austin,enterprise,28,$10.3M,51.001975,3.61682
+Nomadesk,Austin,enterprise,28,$10.3M,51.001975,3.61682
+Coveroo,San Francisco,hardware,28,$3.8M,37.770067,-122.407603
+LockerDome,St. Louis,social,27,$8.09M,38.6501668,-90.2598684
+LockerDome,St. Louis,social,27,$8.09M,38.6501668,-90.2598684
+LockerDome,New York City,social,27,$8.09M,40.7272544,-74.0057152
+LockerDome,New York City,social,27,$8.09M,40.7272544,-74.0057152
+LockerDome,St. Louis,social,27,$8.09M,38.6501668,-90.2598684
+LockerDome,St. Louis,social,27,$8.09M,38.6501668,-90.2598684
+LockerDome,New York City,social,27,$8.09M,40.7272544,-74.0057152
+LockerDome,New York City,social,27,$8.09M,40.7272544,-74.0057152
+Zapproved,Portland,software,27,$1.45M,45.5251,-122.8097
+Mendeley,London,social,27,$2.13M,51.5224267,-0.1046546
+Farecast,Seattle,search,26,$20.6M,47.620982,-122.359397
+Mozy,Pleasant Grove,public_relations,26,$1.9M,40.357978,-111.777531
+Inform Technologies,New York,web,26,$29.3M,40.744639,-73.983963
+BrightDoor Systems,Cary,enterprise,26,$2.2M,35.828121,-78.789358
+Aruspex,San Francisco,software,26,$3.77M,37.790346,-122.40185
+Imagekind,Raleigh,web,26,$2.6M,47.617732,-122.357317
+Advanced Manufacturing Control Systems,Co. Limerick,hardware,26,$8.76M,52.5155,-8.44692
+SodaHead,Encino,web,25,$12.7M,37.269175,-119.306607
+Grockit,San Francisco,social,25,$44.7M,37.775196,-122.419204
+MocoSpace,Boston,games_video,25,$10.5M,42.350274,-71.058768
+Daylife,New York,enterprise,25,$12.3M,40.643438,-73.886452
+GENWI,Los Altos,mobile,25,$7.1M,33.8171,-111.9035
+Evi,Cambridge,search,25,£2.6M,52.195668,0.130647
+RepairPal,Emeryville,web,25,$21.3M,37.838225,-122.296411
+Craigslist,San Francisco,web,25,$13.5M,37.762512,-122.46649
+Invoke Solutions,Waltham,web,25,$5.5M,42.397435,-71.252147
+Syncplicity,Menlo Park,enterprise,25,$2.35M,37.814202,-122.477959
+TicketLeap,Philadelphia,ecommerce,25,$8.66M,39.9512991,-75.179869
+FusionOps,Sunnyvale,analytics,25,$6.09M,37.3795251,-122.0106131
+Fliqz,Emeryville,games_video,25,$12.2M,37.848641,-122.289498
+Vivaty,Menlo Park,web,25,$9.4M,37.48032,-122.178371
+SkyGrid,Sunnyvale,web,25,$13.3M,37.40754,-122.010958
+ShopWiki,New York,ecommerce,25,$6.25M,40.740441,-73.993376
+ShopWiki,New York,ecommerce,25,$6.25M,40.740441,-73.993376
+ShopWiki,New York,ecommerce,25,$6.25M,40.740441,-73.993376
+ShopWiki,New York,ecommerce,25,$6.25M,40.740441,-73.993376
+Semantra,Addison,software,25,$9.1M,32.969251,-96.823778
+Lumenergi,Newark,cleantech,25,$26.4M,37.51821,-122.044025
+Rollstream,McLean,software,25,$7.5M,38.872668,-77.367981
+Busuu,Madrid,social,25,$4.7M,40.4225487,-3.6830316
+Busuu,London,social,25,$4.7M,51.5480857,0.6553168
+L4 Mobile,Seattle,mobile,25,$4.8M,47.676762,-122.2049192
+Samasource,San Francisco,enterprise,25,$1.21M,37.778991,-122.401803
+GameGround,New York,games_video,25,$11.4M,40.756054,-73.986951
+NAVX,Levallois-Perret,automotive,25,€3.1M,48.8988968,2.287772
+NAVX,Bucharest,automotive,25,€3.1M,44.4479237,26.097879
+International Liars Poker Association,St. Louis,other,24,$1.25M,38.632188,-90.214212
+Lat49,"Vancouver, BC",advertising,24,$3.8M,49.275332,-123.120893
+Extreme Enterprises,St Petersburg,enterprise,24,$1.46M,27.770221,-82.735899
+Atraverda,"Abertillery, Gwent,",cleantech,24,£16.6M,23.066066,-82.2927796
+Infochimps,Austin,enterprise,24,$5.35M,30.2734822,-97.7588828
+RealSelf,Seattle,web,23,$1.95M,47.620716,-122.347533
+Escapia,Seattle,software,23,$3.6M,47.613896,-122.3413
+Hunch,New York,web,23,$19.2M,40.741179,-73.993182
+semanticlabs,Vienna,software,23,€1.6M,48.202758,16.354637
+Yipit,New York,web,23,$7.55M,40.744618,-73.987764
+Broadchoice,San Mateo,software,23,$2.7M,37.553743,-122.300246
+Symplified,Boulder,enterprise,23,$44.3M,40.0179964,-105.2800225
+AirPatrol Corporation,Burnaby,mobile,23,$3.68M,49.2549899,-122.9170962
+Bleacher Report,San Francisco,sports,22,$40.5M,37.776467,-122.395792
+UserVoice,San Francisco,software,22,$1.8M,36.9751032,-122.0253784
+BrandYourself,New York,web,22,$1.5M,42.275263,-71.24762
+CrimeReports,Salt Lake City,web,22,$7.2M,40.726342,-111.858835
+Gowalla,Austin,web,22,$10.4M,30.2729209,-97.7443863
+EyeSpot,Torrance,web,22,$3.7M,33.84406,-118.322959
+Plastic Jungle,San Mateo,ecommerce,22,$23.4M,37.400465,-122.073003
+Pliant Technology,Milpitas,enterprise,22,$50.3M,37.413319,-121.9160606
+Zinwave,Cambridge,mobile,22,£15.1M,52.1367844,0.0732335
+Zinwave,Woodland Hills,mobile,22,£15.1M,34.185596,-118.596228
+Edgeware,STOCKHOLM,hardware,22,$11.8M,59.3326694,18.0523253
+Edgeware,San Jose,hardware,22,$11.8M,37.3403284,-121.8864433
+Coghead,Redwood City,web,21,$11.2M,37.476479,-122.221717
+Meez,San Francisco,hardware,21,$10.2M,37.785271,-122.397582
+Pageflakes,San Francisco,web,20,$4.1M,37.758113,-122.414689
+Kiptronic,San Francisco,advertising,20,$7.3M,37.792394,-122.402349
+BuddyTV,Seattle,games_video,20,$10.6M,47.61968,-122.356756
+Scrybe,San Francisco,enterprise,20,$1.31M,40.270666,-74.761403
+SayNow,Palo Alto,mobile,20,$7.5M,37.42746,-122.143915
+PeekYou,New York,search,20,$1.83M,40.757929,-73.985506
+Chumby,San Diego,hardware,20,$17.5M,32.939673,-117.240799
+Proximic,Palo Alto,analytics,20,€9.46M,37.766909,-122.406676
+HipLogic,Fremont,mobile,20,$11.5M,37.5541073,-121.9756765
+MADS,Amsterdam,advertising,20,€1.75M,52.3637746,4.8946071
+MUBI,Palo Alto,games_video,20,$8.25M,37.44236,-122.161025
+Cognition Technologies,Culver City,software,20,$2.9M,33.985399,-118.389452
+Transpera,San Francisco,mobile,20,$19.5M,37.785792,-122.405081
+appssavvy,New York,advertising,20,$10.2M,40.724604,-73.996876
+CohesiveFT,Chicago,software,20,$1.2M,41.882401,-87.637816
+Nimbit,Framingham,music,20,$5.43M,42.272486,-71.424992
+NEXTA Media,Roma,other,20,€1.35M,41.907696,12.496985
+NEXTA Media,Milano,other,20,€1.35M,45.464715,9.182122
+kooaba,Z&#252;rich,mobile,20,$2.92M,47.389909,8.516049
+Pumant,Birmingham,software,20,$1.2M,52.482932,-1.893621
+Pumant,Buenos Aires,software,20,$1.2M,-34.611781,-58.417309
+SynapSense,Folsom,network_hosting,20,$43.5M,38.6456907,-121.1268303
+Momail,Stockholm,mobile,20,$5.4M,59.3359806,18.075506
+Quantivo,Emeryville,analytics,20,$9.4M,37.5455355,-122.3208802
+Wealthfront,Palo Alto,finance,20,$30.5M,37.4459832,-122.1490582
+RJMetrics,Philadelphia,software,20,$7.45M,39.9443552,-75.1257381
+Pictela,New York,advertising,20,$3.5M,40.756054,-73.986951
+KlickSports,Los Angeles,mobile,20,$1.2M,34.0431973,-118.445584
+Unkasoft Advergaming,Madrid,mobile,20,€1.75M,40.4474363,-3.6714915
+Unkasoft Advergaming,Villamayor,mobile,20,€1.75M,41.0016627,-5.6937933
+Outright,Mountain View,enterprise,20,$7.5M,37.287285,-121.942932
+Conformiq,Saratoga,software,20,$4.2M,37.2808523,-122.0031531
+Anygma,Antwerpen,public_relations,20,€1.6M,51.2057495,4.3904302
+Anygma,Agoura,public_relations,20,€1.6M,34.1078241,-118.7526699
+GameChanger Media,New York,software,20,$3.64M,40.7078343,-74.0136605
+WEEZEVENT,Paris,ecommerce,20,€1.1M,48.8952712,2.4476331
+MyEdu,Austin,education,20,$18.7M,30.288159,-97.750154
+Milo,Palo Alto,web,20,$4.95M,37.444531,-122.163352
+Metreos Corporation,Austin,software,20,$4.36M,30.2350399,-97.8001299
+Glympse,Seattle,messaging,20,$7.5M,47.6220245,-122.3350847
+Rue89,,news,20,€1.84M,48.8711089,2.3935987
+Mozes,Palo Alto,mobile,19,$22.3M,37.445667,-122.166911
+Formspring,San Francisco,web,19,$14.3M,39.9052263,-86.0547016
+Eyeview,New York,advertising,19,$19.4M,42.4898278,-71.1993106
+Geni,West Hollywood,web,18,$16.5M,34.090368,-118.393064
+OrganizedWisdom,New York,other,18,$2.8M,40.775537,-73.981709
+Tiny Pictures,San Francisco,mobile,18,$11.2M,37.781002,-122.406912
+Sprout,Honolulu,advertising,18,$8.3M,21.30829,-157.8086025
+Sprout,San Francisco,advertising,18,$8.3M,37.755012,-122.418137
+Fave Media,Chicago,search,18,$1.6M,41.924899,-87.640442
+StudioNow,Nashville,photo_video,18,$15.3M,36.13996,-86.796377
+StudioNow,Nashville,photo_video,18,$15.3M,36.13996,-86.796377
+StudioNow,Nashville,photo_video,18,$15.3M,36.13996,-86.796377
+StudioNow,Nashville,photo_video,18,$15.3M,36.13996,-86.796377
+StudyBlue,Madison,education,18,$18.5M,43.068006,-89.39256
+CoTweet,San Francisco,advertising,18,$1.1M,37.7405936,-122.3764714
+Homesnap,Washington,analytics,18,$5.5M,38.960381,-77.084811
+Mumboe,Austin,software,17,$4.5M,30.390071,-97.711652
+fotopedia,Paris,news,17,$12.7M,48.856667,2.350987
+Stitcher,San Francisco,mobile,17,$18.7M,37.775196,-122.419204
+Myngle,Amsterdam,education,17,$2.1M,52.354525,4.912106
+iPharro Media,Darmstadt,software,17,$5.18M,49.8740096,8.6605881
+iPharro Media,New York,software,17,$5.18M,40.7438356,-73.9890149
+Helpful Technologies,Ft. Lauderdale,cleantech,17,$18.7M,26.2032036,-80.1510951
+ChallengePost,New York,web,17,$4.6M,40.7408042,-74.00717
+iCharts,Sunnyvale,analytics,16,$3.1M,37.384239,-122.012475
+iCharts,Sunnyvale,analytics,16,$3.1M,37.384239,-122.012475
+iCharts,Sunnyvale,analytics,16,$3.1M,37.384239,-122.012475
+iCharts,Sunnyvale,analytics,16,$3.1M,37.384239,-122.012475
+Ziva Software,Bangalore,mobile,16,$1.7M,12.973784,77.64359
+3X Systems,Columbus,security,16,$1.69M,39.997754,-83.041781
+Untangle,Sunnyvale,software,16,$33.2M,37.5374322,-122.3262074
+Fliptop,San Francisco,enterprise,16,$6.79M,37.775206,-122.419209
+MeetMoi,New York City,social,15,$5.58M,40.757929,-73.985506
+Respectance,San Mateo,web,15,$1.75M,37.55909,-122.321836
+mEgo,Los Angeles,web,15,$7.35M,34.064491,-118.42749
+Veodia,San Mateo,games_video,15,$8.3M,37.553743,-122.300246
+Plazes,Berlin,web,15,€3.7M,52.523402,13.398694
+Roost,San Francisco,software,15,$13.5M,37.7891288,-122.4020276
+Sportgenic,San Francisco,advertising,15,$11.5M,37.790485,-122.40094
+Pikum,London,games_video,15,$5.92M,51.539778,-0.152998
+Trampoline Systems,London,enterprise,15,$7.48M,51.5212179,-0.0869736
+Salesconx,New York,enterprise,15,$1.3M,40.759243,-73.98459
+Mirror42,Amsterdam,software,15,$1.2M,52.36702,4.896468
+Smarkets,London,sports,15,$2.71M,51.550757,-0.130772
+Tapulous,Palo Alto,mobile,15,$2.8M,37.444332,-122.161018
+GenArts,Cambridge,games_video,15,$22.4M,42.369007,-71.110276
+UsingMiles,Denver,travel,15,$3.27M,39.749671,-104.9998449
+UsingMiles,Denver,travel,15,$3.27M,39.749671,-104.9998449
+UsingMiles,Denver,travel,15,$3.27M,39.749671,-104.9998449
+UsingMiles,Denver,travel,15,$3.27M,39.749671,-104.9998449
+C4M,Marseille,mobile,15,€2.5M,43.30758,5.387345
+CopaCast,Santa Clara,other,15,$2.75M,37.40688,-121.980353
+Digital Performance,Newport Beach,advertising,15,$4.48M,33.63776,-117.855989
+KODA,San Francisco,web,15,$4.5M,37.788796,-122.40971
+KODA,New Orleans,web,15,$4.5M,29.9739941,-90.0822015
+Kapitall,New York,finance,15,$7.3M,40.720391,-73.9983139
+Musicmetric,London,music,15,£3.4M,51.5253765,-0.0856982
+MMIC Solutions,Austin,semiconductor,15,$6.25M,30.396989,-97.735768
+Fixmo Carrier Services,Issaquah,mobile,15,$6.9M,47.3307422,-122.5833189
+Innovative Biosensors,Rockville,biotech,15,$18.4M,39.110655,-77.154466
+RxVantage,Culver City,enterprise,15,$2.75M,34.030479,-118.3814329
+ipadio,London,messaging,15,$1.6M,51.8205815,0.0118608
+Content Syndicate: Words on Demand,Dubai,enterprise,15,$1.5M,25.1910055,55.2373803
+Culture Jam,Los Angeles,web,15,$1.7M,34.0137151,-118.4660597
+Filtrbox,Palo Alto,web,14,$1.92M,40.010492,-105.276843
+OtherInbox,Austin,messaging,14,$3.8M,30.269004,-97.740395
+Aloqa,Munich,mobile,14,$1.5M,48.1281209,11.5677288
+Aloqa,Palo Alto,mobile,14,$1.5M,37.43938,-122.158804
+ELDR Media,Corte Madera,web,14,$1.25M,37.9260091,-122.5162892
+ELDR Media,Corte Madera,web,14,$1.25M,37.9260091,-122.5162892
+ELDR Media,Corte Madera,web,14,$1.25M,37.9260091,-122.5162892
+ELDR Media,Corte Madera,web,14,$1.25M,37.9260091,-122.5162892
+HammerKit,Helsinki,web,14,€1.25M,60.16441,24.910863
+HammerKit,Helsinki,web,14,€1.25M,60.16441,24.910863
+HammerKit,Helsinki,web,14,€1.25M,60.16441,24.910863
+HammerKit,Helsinki,web,14,€1.25M,60.16441,24.910863
+Avenue Right,Fargo,advertising,14,$1.13M,46.9037602,-96.8098798
+adicate timeads,Fredrikstad,other,13,$2.9M,59.215127,10.929338
+Geelbe,Bogotá,fashion,13,$4.7M,4.5980556,-74.0758333
+Metaplace,Solana Beach,games_video,12,$9.4M,33.020832,-117.077311
+Skinkers,London,software,12,$21.5M,51.604922,0.239866
+StreetFire,Los Angeles,web,12,$7.9M,33.982431,-118.426707
+NuConomy,San Francisco,advertising,12,$3.3M,37.795191,-122.430411
+Akoha,Montreal,games_video,12,$1.9M,45.516545,-73.578477
+Strutta,Vancouver,advertising,12,$1.6M,49.2821075,-123.1078045
+SpaBoom,Albuquerque,ecommerce,12,$1.3M,35.086388,-106.646185
+Bambuser,Stockholm,mobile,12,$2.5M,59.332788,18.064488
+LifePics,Boulder,ecommerce,12,$1.98M,40.025479,-105.219298
+Genbook,San Francisco,web,12,$2.2M,37.789902,-122.4007791
+Consensus Point,Nashville,enterprise,12,$3.61M,36.1628,-86.781
+Citizenside,Paris,games_video,12,€1.04M,48.8926988,2.3179601
+Revelation,Portland,analytics,12,$2.37M,45.504407,-122.655545
+Aftercad Software,Vancouver,enterprise,12,C$1.1M,49.2540299,-123.1152075
+StockTwits,San Diego,web,12,$8.6M,32.7161896,-117.168697
+CommonFloor,"Bangalore, Karnataka",real_estate,12,$7.5M,12.9593805,77.6378619
+HItviews,New York City,advertising,12,$2.29M,40.733201,-73.991535
+HItviews,"Beverly Hills,",advertising,12,$2.29M,34.0644639,-118.3730432
+Codesion,"Robina,  QLD",software,12,$1.4M,-28.0718703,153.3746053
+Heartscape,Columbia,biotech,12,£8.49M,39.2328783,-76.8204666
+Verisim,Edinburgh,software,12,£1.2M,55.934152,-3.3090825
+Ranker,Los Angeles,web,12,$5.1M,34.1012181,-118.325739
+HealthEngine,Perth,web,12,$10.4M,-31.97822,115.89084
+CubeTree,Redwood City,enterprise,12,$11.5M,37.487259,-122.232217
+Garlik,Richmond,software,12,$24.7M,51.462108,-0.295441
+Garlik,New York,software,12,$24.7M,40.7615818,-73.970624
+SkillSurvey,Wayne,software,12,$1.8M,40.07918,-75.418689
+Gravity,Santa Monica,advertising,12,$20.6M,34.007967,-118.489681
+DeciZium,San Jose,web,12,$1.5M,37.337756,-121.89435
+Jelli,San Mateo,enterprise,12,$16.6M,37.55909,-122.321836
+introNetworks,Montecito,web,11,$2.7M,34.42071,-119.641821
+Mixx,McLean,web,11,$3.5M,38.003376,-79.420926
+TravelMuse,New York,web,11,$5.6M,37.402802,-122.117418
+Redux,Berkeley,games_video,11,$8.11M,37.87168,-122.269494
+Britely,Palo Alto,web,11,$3.9M,37.458766,-122.172519
+Vontoo,Indianapolis,public_relations,11,$2.19M,39.914281,-86.076478
+PEX Card,New York,software,11,$5.7M,40.752539,-73.987871
+Audiolife,Van Nuys,ecommerce,11,$4.5M,34.213925,-118.487236
+Continuity Engine,New Haven,software,11,$7.84M,41.3279176,-73.2435522
+Wishpot,Seattle,ecommerce,10,$1.3M,47.620716,-122.347533
+Doostang,Palo Alto,web,10,$5.75M,37.427235,-122.145783
+Flixwagon,Tel-Aviv,mobile,10,$2.5M,32.0554,34.7595
+SimulScribe,New York,web,10,$5.7M,40.762673,-73.969296
+Bragster,London,web,10,$3.5M,51.5220072,-0.0766034
+Krillion,Mountain View,web,10,$9.65M,37.391727,-122.077597
+AudioMicro,Sherman Oaks,games_video,10,$1.25M,34.153588,-118.422495
+Moviestorm,Cambridge,software,10,£4.3M,52.197471,0.130588
+PrepChamps,,web,10,$1.2M,35.914702,-78.902617
+Yoono,San Francisco,web,10,$5.45M,37.787204,-122.397884
+WrapMail,Fort Lauderdale,advertising,10,$1.94M,26.119403,-80.143394
+Oxynade,Ghent,search,10,€1.1M,51.050314,3.71105
+SquareClock,Asnieres sur seine,web,10,$1.25M,48.9064804,2.2860418
+Xcerion,Linkoping,enterprise,10,$15.3M,58.408922,15.626481
+Jibe Mobile,Mountain View,mobile,10,$9.1M,37.4186097,-122.0937686
+My Damn Channel,New York,games_video,10,$8.66M,40.754762,-73.988543
+My Damn Channel,El Segundo,games_video,10,$8.66M,33.9019543,-118.3872018
+Mezmeriz,Ithaca,hardware,10,$2.1M,42.485193,-76.458553
+TournEase,Lakeland,ecommerce,10,$3.5M,28.02998,-82.045178
+trueAnthem,San Francisco,advertising,10,$7.48M,37.8059887,-122.4099154
+Allvoices,San Francisco,news,10,€3.04M,37.791068,-122.401942
+Foodzie,San Francisco,ecommerce,10,$1.02M,40.0173513,-105.2773493
+Foodzie,San Francisco,ecommerce,10,$1.02M,40.0173513,-105.2773493
+Foodzie,San Francisco,ecommerce,10,$1.02M,40.0173513,-105.2773493
+Foodzie,San Francisco,ecommerce,10,$1.02M,40.0173513,-105.2773493
+Shattered Reality Interactive,San Francisco,games_video,10,$1.1M,37.783046,-122.394067
+Shattered Reality Interactive,San Francisco,games_video,10,$1.1M,37.783046,-122.394067
+Shattered Reality Interactive,San Francisco,games_video,10,$1.1M,37.783046,-122.394067
+Shattered Reality Interactive,San Francisco,games_video,10,$1.1M,37.783046,-122.394067
+Producteev,New York,software,10,$1.31M,40.775309,-73.983656
+Producteev,New York,software,10,$1.31M,40.775309,-73.983656
+Producteev,New York,software,10,$1.31M,40.775309,-73.983656
+Producteev,New York,software,10,$1.31M,40.775309,-73.983656
+GoodGuide,San Francisco,web,10,$14.2M,37.7983181,-122.4000032
+GoodGuide,San Francisco,web,10,$14.2M,37.7983181,-122.4000032
+GoodGuide,San Francisco,web,10,$14.2M,37.7983181,-122.4000032
+GoodGuide,San Francisco,web,10,$14.2M,37.7983181,-122.4000032
+Pixelpipe,San Francisco,mobile,10,$2.3M,37.764395,-122.401024
+Pixelpipe,San Francisco,mobile,10,$2.3M,37.764395,-122.401024
+Pixelpipe,San Francisco,mobile,10,$2.3M,37.764395,-122.401024
+Pixelpipe,San Francisco,mobile,10,$2.3M,37.764395,-122.401024
+PeopleJar,Los Angeles,web,10,$1.61M,34.1030032,-118.4104684
+Reframe It,San Francisco,web,10,$3.18M,37.782163,-122.400591
+For Your Imagination,New York,games_video,10,$1.3M,40.744594,-73.989698
+People Capital,New York,web,10,$2.5M,40.756054,-73.986951
+Juneau Biosciences,Salt Lake City,biotech,10,$5.29M,40.718033,-111.81104
+Shutl,London,ecommerce,10,£7.66M,51.5196135,-0.1020265
+Socialize,San Francisco,mobile,10,$1.82M,38.88521,-76.998641
+betaworks,New York,social,10,$41.8M,40.74034,-74.00721
+SproutBox,Bloomington,other,10,$1.02M,39.164287,-86.526904
+BillMyParents,San Diego,ecommerce,10,$3.4M,32.901317,-117.200492
+BeeTV,Milan,software,10,$9.5M,45.4636889,9.1881408
+Kwaga,Paris,messaging,10,€2.15M,48.8318497,2.3389864
+Ykone,Paris,web,10,€1.5M,48.8566667,2.3509871
+Getyoo,Brussels,mobile,10,€1.13M,50.83997,4.3464721
+Lookery,San Francisco,web,9,$3.15M,37.788266,-122.403865
+Lookery,Cambridge,web,9,$3.15M,42.398424,-71.130297
+TalentSpring,Seattle,web,9,$2.7M,47.680496,-122.120938
+Tripology,New York,web,9,$1.25M,40.746883,-73.983969
+Posterous,San Francisco,web,9,$10.1M,37.775196,-122.419204
+Transposagen Biopharmaceuticals,Lexington,biotech,9,$5.38M,38.048906,-84.499838
+Occipital,Boulder,software,9,$8.02M,40.018145,-105.278109
+Occipital,Boulder,software,9,$8.02M,40.018145,-105.278109
+Occipital,Boulder,software,9,$8.02M,40.018145,-105.278109
+Occipital,Boulder,software,9,$8.02M,40.018145,-105.278109
+Where I've Been,Chicago,travel,9,$1.75M,41.916619,-87.686634
+Where I've Been,Chicago,travel,9,$1.75M,41.916619,-87.686634
+Where I've Been,Chicago,travel,9,$1.75M,41.916619,-87.686634
+Where I've Been,Chicago,travel,9,$1.75M,41.916619,-87.686634
+Zume Life,San Jose,mobile,9,$1.7M,37.368878,-121.917236
+Zume Life,San Jose,mobile,9,$1.7M,37.368878,-121.917236
+Zume Life,San Jose,mobile,9,$1.7M,37.368878,-121.917236
+Zume Life,San Jose,mobile,9,$1.7M,37.368878,-121.917236
+StatSheet,Durham,sports,9,$5.3M,35.7998482,-78.8722341
+Snipi,Philadelphia,ecommerce,9,$4.03M,39.9502045,-75.1618758
+Newsvine,Seattle,web,8,$1.25M,47.618599,-122.358484
+Spoke,San Mateo,software,8,$25.1M,37.559287,-122.302262
+BroadClip,Livermore,software,8,$3.11M,37.661237,-121.803572
+CrossLoop,Monterey,web,8,$10.5M,36.611645,-121.898539
+Foneshow,Portland,mobile,8,$2.08M,43.657058,-70.253959
+TeachStreet,Seattle,web,8,$3.45M,47.6171788,-122.3370801
+BioWizard,Wayne,web,8,$1.1M,40.043029,-75.377916
+Confident Technologies,Solana Beach,enterprise,8,$6.29M,36.15057,-95.989442
+Zecter,Burlingame,network_hosting,8,$2.52M,37.384756,-122.087712
+youcalc,Copenhagen,enterprise,8,$3.84M,55.672869,12.558307
+youcalc,Copenhagen,enterprise,8,$3.84M,55.672869,12.558307
+youcalc,Copenhagen,enterprise,8,$3.84M,55.672869,12.558307
+youcalc,Copenhagen,enterprise,8,$3.84M,55.672869,12.558307
+SureSpeak,Chicago,games_video,8,$1.6M,41.889183,-87.632519
+iChange,Pasadena,health,8,$1.83M,34.144926,-118.149767
+iChange,Fullerton,health,8,$1.83M,33.877719,-117.924538
+Drync,Boston,mobile,8,$1.77M,42.376862,-71.14462
+ReShape Medical,San Clemente,medical,8,$39.5M,33.4491774,-117.5917143
+Faves,Seattle,web,7,$1.5M,47.603327,-122.334983
+Minekey,Sunnyvale,web,7,$3.6M,37.384239,-122.012475
+TerraPass,San Francisco,web,7,$5.8M,37.787445,-122.397847
+Enikos,Sydney,advertising,7,$1.1M,-33.8627,151.209705
+The Society,Lakewood,web,7,$1.5M,39.658017,-105.084475
+REMOTV,New Haven,mobile,7,$2.7M,41.3215202,-72.9294232
+Woodland Biofuels,Ontario,cleantech,7,C$1.25M,43.6455935,-79.6944325
+BeFunky,San Francisco,photo_video,6,$1.65M,37.7749295,-122.4194155
+Grouply,Redwood City,network_hosting,6,$2.6M,37.502742,-122.211281
+divorce360,North Palm Beach,web,6,$2.5M,26.820375,-80.058401
+Interneer,Culver City,web,6,$3.2M,34.145312,-118.793136
+Iterasi,Portland,enterprise,6,$1.2M,45.523104,-122.670132
+MediaScrape,Montreal,web,6,$5.2M,45.545447,-73.639076
+RateItAll,San Francisco,web,6,$1.4M,37.755012,-122.418137
+Estately,Seattle,real_estate,6,$1.25M,47.273017,-120.882482
+Blue Lava Technologies,Honolulu,software,6,$6.01M,21.309419,-157.86318
+Cazoodle,Champaign,web,6,$1.2M,40.090814,-88.239866
+Cazoodle,Champaign,web,6,$1.2M,40.090814,-88.239866
+Cazoodle,Champaign,web,6,$1.2M,40.090814,-88.239866
+Cazoodle,Champaign,web,6,$1.2M,40.090814,-88.239866
+Quick TV,Newcastle Upon Tyne,enterprise,6,£2.89M,54.971065,-1.6194034
+Quick TV,London,enterprise,6,£2.89M,51.5115309,-0.1392765
+Mashup Arts,Halifax,software,6,$1.58M,43.648786,-79.3777473
+Comunitae,Madrid,finance,6,€3.5M,40.4905109,-3.7033403
+EyeJot,Seattle,web,5,$1.15M,47.5999337,-122.3276962
+UpDown,Cambridge,web,5,$1.75M,42.375392,-71.118487
+Yedda,Tel Aviv,web,5,$2.5M,32.0554,34.7595
+Y Combinator,Mountain View,finance,5,$10.3M,37.38687,-122.067979
+eduFire,Chandler,education,5,$1.7M,37.7764671,-122.3957917
+TweetDeck,London,software,5,$3.8M,51.5001524,-0.1262362
+LeisureLogix,Tampa,software,5,$5.9M,28.032975,-82.64611
+DocVerse,San Francisco,web,5,$1.3M,37.788115,-122.397141
+Infoaxe,Sunnyvale,search,5,$3.9M,37.386774,-121.987661
+HyperWeek,Geneva,social,5,$1.31M,46.2121463,6.1503245
+Travel Distribution Systems,Melbourne,enterprise,5,$1.1M,-37.819691,145.205688
+Alerts,Bellevue,public_relations,5,$1.2M,47.6115873,-122.1961785
+Tinychat,Glen Cove,web,5,$1.5M,42.3756409,-72.5196907
+Stentys,Paris,medical,5,$72.8M,48.8707984,2.3359741
+Stentys,,medical,5,$72.8M,40.323339,-74.642505
+oneforty,Cambridge,enterprise,5,$2.35M,42.364014,-71.101375
+Sofa Labs,San Mateo,social,5,$1.2M,37.5646055,-122.3229235
+Sampa,Redmond,web,4,$1.31M,47.682233,-122.135521
+TraceWorks,Copenhagen K,software,4,$4.25M,55.678672,12.579241
+Wiggio,Boston,enterprise,4,$2.94M,42.3584308,-71.0597732
+"ServusXchange, LLC",Pompano Beach,software,4,$1.95M,26.2341552,-80.1540226
+Boxbe,San Francisco,web,3,$1.5M,37.800209,-122.442592
+Open Places,San Francisco,web,3,$1.1M,37.758352,-122.398379
+Foodista,Seattle,hospitality,3,$1.3M,47.6254784,-122.3564234
+Foodista,Seattle,hospitality,3,$1.3M,47.6254784,-122.3564234
+Foodista,Seattle,hospitality,3,$1.3M,47.6254784,-122.3564234
+Foodista,Seattle,hospitality,3,$1.3M,47.6254784,-122.3564234
+ANTs Software,Dunwoody,software,3,$28.3M,37.590056,-122.347654
+Predictify,Redwood City,advertising,2,$4.3M,37.486571,-122.229161
+be2,Munich,web,2,€22.7M,51.578714,8.093765
+Zorap,San Francisco,web,2,$2.25M,37.775196,-122.419204
+Zorap,Falmouth,web,2,$2.25M,43.6910137,-70.2694636
+AlphaClone,San Francisco,finance,2,$1.4M,37.79023,-122.403073
+YOUnite,Mountain View,web,2,$1.3M,37.388077,-122.08316
+Factery,Menlo Park,web,2,$1.2M,37.4484914,-122.1802812
+Mixercast,San Mateo,web,1,$12.7M,37.553743,-122.300246
+OurStage,Chelmsford,music,1,$29.9M,42.591704,-71.319348
+Idea Shower,Minneapolis,public_relations,1,$2.3M,44.977482,-93.264351
+Skype,Luxembourg City,software,0,$76.8M,51.518132,-0.131916
+YouTube,San Bruno,games_video,0,$11.5M,37.627971,-122.426804
+CastTV,San Francisco,games_video,0,$3.1M,37.780716,-122.393913
+EQO,Vancouver,mobile,0,$12.5M,49.263588,-123.138565
+Mashery,San Francisco,enterprise,0,$34.7M,37.7870842,-122.4038047
+DanceJam,San Francisco,games_video,0,$4.5M,37.781557,-122.407959
+Inneractive,San Mateo,advertising,0,$8.5M,37.5646055,-122.3229235
+Brightkite,Burlingame,social,0,$1.42M,39.762314,-104.982256
+FilmLoop,Menlo Park,web,0,$12.6M,37.48413,-122.169472
+LocaModa,Cambridge,advertising,0,$7.9M,42.358822,-71.104329
+Attributor,San Mateo,software,0,$25.2M,37.453687,-122.228595
+ThisNext,Santa Monica,social,0,$8.7M,34.01533,-118.493592
+SpeedDate,San Mateo,web,0,$11.6M,37.557637,-122.285714
+Xobni,San Francisco,software,0,$41.8M,37.789634,-122.404052
+BuzzDash,Marina del Rey,web,0,$1.2M,33.977854,-118.445271
+Eurekster,,web,0,$6.85M,37.790992,-122.40188
+EditGrid,,public_relations,0,$2.5M,22.396428,114.109497
